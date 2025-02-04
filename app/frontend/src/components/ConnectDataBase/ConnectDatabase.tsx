@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { TextField, PrimaryButton, IconButton, Stack, IColumn, DetailsList } from '@fluentui/react';
-import styles from './ConnectDatabase.module.css';
+import styles from './Connectdatabase.module.css';
 import { Add12Filled } from '@fluentui/react-icons';
 import DialogBox from '../DialogBox/DialogBox'; // Adjust the import path as necessary
 
