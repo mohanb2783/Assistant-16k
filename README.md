@@ -97,7 +97,7 @@ For a detailed review see our [Features](./docs/features/features.md) page.
     gpt-35-turbo-16k | current version
     gpt-4 | current version
     gpt-4-32k | current version
-    **gpt-4o** | current version
+    **gpt-4o** | 2024-05-13
 
     **Important:** Gpt-4o (2024-05-13) is recommended. The gpt-4 models may achieve better results but slower performance than gpt-35 models when used with Information Assistant.
   * (Optional) **Access to the following Azure OpenAI model for embeddings**. Some open source embedding models may perform better for your specific data or use case. For the use case and data Information Assistant was tested for we recommend using the following Azure OpenAI embedding model.
